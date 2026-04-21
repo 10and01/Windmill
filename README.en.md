@@ -1,12 +1,13 @@
 # Windmill Focus
-
-[中文说明](README.md)
+<div align="center">
+  <img src="./Windmill_icon.png" alt="demo" />
+</div>
 
 Windmill Focus is a lightweight focus app that combines windmill interaction, task management, a focus timer, and local weather ambience. It supports both web and desktop (Electron) modes.
 
-![Windmill Icon](./Windmill_icon.png)
-
+## UI
 ![Demo](./Demo.png)
+<p align="center">English  |  <a title="中文" href="README.md"></a></p>
 
 ## Features
 

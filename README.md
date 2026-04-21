@@ -1,12 +1,13 @@
 # Windmill Focus
 
-[English README](README.en.md)
-
+<div align="center">
+  <img src="./Windmill_icon.png" alt="demo" />
+</div>
 Windmill Focus 是一个轻量的专注工具，结合了风车互动、任务管理、番茄钟和本地天气氛围，支持网页与桌面（Electron）双端运行。
 
-![Windmill Icon](./Windmill_icon.png)
-
+## 用户界面
 ![Demo](./Demo.png)
+<p align="center">中文  |  <a title="English" href="README.en.md">English</a></p>
 
 ## 项目功能
 
