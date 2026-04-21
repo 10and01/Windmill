@@ -1,0 +1,5 @@
+{
+  "name": "Hamster Wheel Focus",
+  "description": "A cute virtual hamster wheel with a to-do list, Pomodoro timer, weather effects, and background music to keep you focused.",
+  "requestFramePermissions": ["geolocation"]
+}
